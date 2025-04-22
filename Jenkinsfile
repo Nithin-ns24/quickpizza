@@ -1,4 +1,4 @@
-@Library('deploy-conf') _
+@Library('my_shared_library') _
 
 buildDockerImage('https://github.com/Nithin-ns24/quickpizza.git')
 
